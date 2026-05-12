@@ -1,0 +1,22 @@
+{
+  "name": "curso",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000c\u0000u\u0000r\u0000s\u0000o\u0000-\u0000g\u0000i\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daianeartmann/curso-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/daianeartmann/curso-git/issues"
+  },
+  "homepage": "https://github.com/daianeartmann/curso-git#readme"
+}
